@@ -1,0 +1,15 @@
+{
+  "name": "ednilso_avaliacaodevinicial",
+  "version": "1.0.0",
+  "description": "Avaliação 1 - Vaga desenvolvedor full stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "author": "Ednilso Santana do Nascimento",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
